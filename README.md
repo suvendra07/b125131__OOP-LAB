@@ -6,5 +6,5 @@ Just a repository for my Object-Oriented Programming (OOP) lab assignments and e
 ## 📁 Repository Structure
 
 ```text
-├── Lab-01
+├── Labs
 └── README.md
